@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "encrypt_message", "encrypt_message\encrypt_message.pyproj", "{FAA1186B-E515-42BE-A852-8FC1A14B6D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA1186B-E515-42BE-A852-8FC1A14B6D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA1186B-E515-42BE-A852-8FC1A14B6D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3271A99E-A1F2-4A4A-8FF9-8885D9E01ED3}
+	EndGlobalSection
+EndGlobal
