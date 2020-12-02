@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Academy Award Review of",
+    "Production company": "Walt Disney Productions",
+    "Release date": [
+      "May 19, 1937"
+    ],
+    "Running time": "41 minutes (74 minutes 1966 release)",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$45.472",
+    "Running time (int)": 41,
+    "Budget (float)": null,
+    "Box office (float)": 45.472,
+    "Release date (datetime)": 
